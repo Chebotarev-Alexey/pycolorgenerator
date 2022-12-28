@@ -8,9 +8,9 @@ with open("requirements.txt") as f:
 
 setuptools.setup(
 	name="pycolorgenerator",
-	version="1.0",
+	version="1.0.2",
 	author="Alexey-Chebotarev",
-	description="A package for useful python templates.",
+	description="A package for simple different colors generation",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	url="https://github.com/Chebotarev-Alexey/pycolorgenerator",
